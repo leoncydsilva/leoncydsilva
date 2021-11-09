@@ -4,6 +4,8 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=leoncydsilva&label=Profile%20views&color=0e75b6&style=flat"
         alt="leoncydsilva" />
+    <a href="https://wakatime.com/@175130aa-d30d-4ea4-aee6-bdedf9d457c7">
+        <img src="https://wakatime.com/badge/user/175130aa-d30d-4ea4-aee6-bdedf9d457c7.svg" alt="Total time coded since Nov 9 2021" /></a>
 </p>
 
 <p align="left">
@@ -131,9 +133,12 @@
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 
-<p align="left">
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=leoncydsilva&show_icons=true&locale=en&count_private=true&theme=tokyonight" />
+<p>
+<a href="https://stackoverflow.com/users/8903913/leoncy-achilles-dsilva" target="_blank" align="left">
+        <img src="https://github-readme-stackoverflow.vercel.app/?userID=8903913&theme=dark&layout=compact" width="40%"/>
     </a>
-</p>
+    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@leoncydsilva&show_icons=true&locale=en&count_private=true&theme=tokyonight" width="48%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoncydsilva&show_icons=true&locale=en&count_private=true&theme=tokyonight" 
+   />
+</p>    
+             

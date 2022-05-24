@@ -140,6 +140,6 @@
     <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@leoncydsilva&show_icons=true&locale=en&count_private=true&theme=tokyonight" width="48%" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoncydsilva&show_icons=true&locale=en&count_private=true&theme=tokyonight" 
    />
-    <figure><embed src="https://wakatime.com/share/@leoncydsilva/88fb8706-a388-4195-9202-827bd2493c4f.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@leoncydsilva/d5a8ba53-d3ed-41ad-9eaa-ec7fa124e74e.png" /></a>
 </p>    
              

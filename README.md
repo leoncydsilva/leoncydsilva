@@ -71,33 +71,25 @@
             alt="Total time coded since Nov 9 2021" />
 </p>
 <br>
-<h4 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center" style="margin-top: 10px">
     <a href="mailto:leoncydsilva@gmail.com" target="blank">
-            <img align="center" src="./assets/social/gmail.svg" alt="leoncydsilva" height="30" width="40" />
+        <img align="center" src="./assets/social/gmail.svg" alt="leoncydsilva" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/leoncy-dsilva-a59080b8" target="blank">
-            <img align="center" src="./assets/social/linkedin.svg" alt="leoncydsilva" height="25" width="40" />
+        <img align="center" src="./assets/social/linkedin.svg" alt="leoncydsilva" height="25" width="40" />
     </a>
     <a href="https://instagram.com/leoncydsilva" target="blank">
-        <img align="center"
-            src="./assets/social/instagram.svg"
-            alt="leoncydsilva" height="25" width="40" />
+        <img align="center" src="./assets/social/instagram.svg" alt="leoncydsilva" height="25" width="40" />
     </a>
     <a href="https://www.youtube.com/c/leoncy dsilva" target="blank">
-        <img align="center"
-            src="./assets/social/youtube.svg"
-            alt="leoncy dsilva" height="30" width="40" />
+        <img align="center" src="./assets/social/youtube.svg" alt="leoncy dsilva" height="30" width="40" />
     </a>
     <a href="https://twitter.com/leoncydsilva" target="blank">
-        <img align="center"
-            src="./assets/social/twitter.svg"
-            alt="leoncydsilva" height="25" width="40" />
+        <img align="center" src="./assets/social/twitter.svg" alt="leoncydsilva" height="25" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/8903913/leoncy-achilles-dsilva" target="blank">
-        <img align="center"
-            src="./assets/social/stackoverflow.svg"
-            alt="leoncydsilva" height="25" width="40" />
+        <img align="center" src="./assets/social/stackoverflow.svg" alt="leoncydsilva" height="25" width="40" />
     </a>
 </p>
 <br>
@@ -117,177 +109,178 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://go.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-            alt="javascript" width="30" height="30" /> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            alt="javascript" width="30" height="30" /> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="typescript" width="30" height="30" /> 
-    </a>
-    <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="javascript" width="30"
             height="30" />
     </a>
-    <a href="https://dart.dev" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="java"
-        width="30" height="30" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            alt="javascript" width="30" height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"
-        width="40" height="30" />
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
+            width="30" height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="java"
-        width="35" height="30" />
+    <a href="https://kotlinlang.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30"
+            height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="java"
-        width="35" height="30" />
+    <a href="https://dart.dev" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="java" width="30"
+            height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="java"
-        width="40" height="30" />
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40"
+            height="30" />
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="java" width="35"
+            height="30" />
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="java" width="35"
+            height="30" />
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="java" width="40"
+            height="30" />
     </a>
 </p>
 <h3 align="left">Databases:</h3>
 <p align="left">
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="java"
-        width="30" height="30" />
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="java" width="30"
+            height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="java"
-        width="30" height="30" />
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="java" width="30"
+            height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="java"
-        width="30" height="30" />
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="java" width="30"
+            height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="java"
-        width="30" height="30" />
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="java" width="30"
+            height="30" />
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="java"
-        width="30" height="30" />
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="java" width="30"
+            height="30" />
     </a>
 </p>
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left">
     <a href="https://go.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-            alt="javascript" width="30" height="30" /> 
+            alt="javascript" width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"
-            alt="javascript" width="30" height="30" /> 
+            alt="javascript" width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://www.docker.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="javascript" width="30"
+            height="30" />
     </a>
 </p>
 <h3 align="left">Version Control:</h3>
 <p align="left">
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="javascript" width="30"
+            height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
-     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-            alt="javascript" width="30" height="30" /> 
+    <a href="https://go.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
 </p>
 <h3 align="left">Project Management:</h3>
 <p align="left">
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="javascript" width="30"
+            height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
 </p>
 <h3 align="left">Devops:</h3>
 <p align="left">
     <a href="https://go.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-            alt="javascript" width="30" height="30" /> 
+            alt="javascript" width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-            alt="javascript" width="30" height="30" /> 
+            alt="javascript" width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"
-            alt="javascript" width="30" height="30" /> 
+            alt="javascript" width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="javascript"
+            width="30" height="30" />
     </a>
 </p>
 <h3 align="left">Designing/Editing (Hobby):</h3>
 <p align="left">
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="javascript"
+            width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-            alt="javascript" width="30" height="30" /> 
+            alt="javascript" width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
-            alt="javascript" width="30" height="30" /> 
+            alt="javascript" width="30" height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="javascript" width="30"
+            height="30" />
     </a>
     <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"
-            alt="javascript" width="30" height="30" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="javascript"
+            width="30" height="30" />
     </a>
 </p>
 <p>

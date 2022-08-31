@@ -290,15 +290,6 @@
             alt="javascript" width="30" height="30" /> 
     </a>
 </p>
-<h3 align="left">Projects:</h3>
-<p>
-    <a href="https://github.com/leoncydsilva/SearchableSpinner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoncydsilva&repo=SearchableSpinner&show_icons=true&line_height=1&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SearchableSpinner" />
-    </a>
-    <a href="https://github.com/leoncydsilva/MaterialSearchView">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoncydsilva&repo=MaterialSearchView&show_icons=true&line_height=1&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MaterialSearchView" />
-    </a>
-</p>
 <p>
     <a href="https://wakatime.com"><img
             src="https://wakatime.com/share/@leoncydsilva/d5a8ba53-d3ed-41ad-9eaa-ec7fa124e74e.png" /></a>

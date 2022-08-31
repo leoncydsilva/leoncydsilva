@@ -61,7 +61,6 @@
 </svg>
 
 <h3 align="center">A passionate full stack android developer from India</h3>
-<br>
 <p align="center">
     <img align="center"
         src="https://komarev.com/ghpvc/?username=leoncydsilva&label=Profile%20views&color=0e75b6&style=flat"
@@ -70,7 +69,6 @@
         <img align="center" src="https://wakatime.com/badge/user/175130aa-d30d-4ea4-aee6-bdedf9d457c7.svg"
             alt="Total time coded since Nov 9 2021" />
 </p>
-<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="margin-top: 10px">
     <a href="mailto:leoncydsilva@gmail.com" target="blank">
@@ -92,7 +90,6 @@
         <img align="center" src="./assets/social/stackoverflow.svg" alt="leoncydsilva" height="25" width="40" />
     </a>
 </p>
-<br>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=leoncydsilva&theme=radical" alt="leoncydsilva" />
